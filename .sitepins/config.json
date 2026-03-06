@@ -1,0 +1,10 @@
+{
+  "content": "content",
+  "media": "static",
+  "public": "static",
+  "configs": [
+    "config.toml"
+  ],
+  "custom-commit": false,
+  "arrangement": []
+}
