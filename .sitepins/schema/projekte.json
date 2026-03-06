@@ -1,0 +1,173 @@
+{
+  "file": "content/projekte/icodems.md",
+  "name": "projekte",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "type",
+      "label": "Type",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "kategorien",
+      "label": "Kategorien",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "categories",
+      "label": "Categories",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "published",
+      "label": "Published",
+      "type": "Date",
+      "value": "",
+      "defaultValue": "",
+      "alwaysUseCurrentDate": false
+    },
+    {
+      "name": "tile",
+      "label": "Tile",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "tileclass",
+      "label": "Tileclass",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "layout",
+      "label": "Layout",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "img",
+      "label": "Img",
+      "type": "media",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "img_header",
+      "label": "Img Header",
+      "type": "media",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "subtitle",
+      "label": "Subtitle",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "partners",
+      "label": "Partners",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "website",
+      "label": "Website",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "contact",
+      "label": "Contact",
+      "type": "object",
+      "defaultValue": "",
+      "fields": [
+        {
+          "name": "website",
+          "label": "Website",
+          "type": "string",
+          "value": "",
+          "defaultValue": ""
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "label": "People",
+      "type": "Array",
+      "value": [],
+      "defaultValue": "",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Name",
+          "type": "string",
+          "value": "",
+          "defaultValue": ""
+        },
+        {
+          "name": "role",
+          "label": "Role",
+          "type": "string",
+          "value": "",
+          "defaultValue": ""
+        }
+      ]
+    },
+    {
+      "name": "years",
+      "label": "Years",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "financing",
+      "label": "Financing",
+      "type": "Array",
+      "value": [],
+      "defaultValue": ""
+    },
+    {
+      "name": "cta",
+      "label": "Cta",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "cta_text",
+      "label": "Cta Text",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    },
+    {
+      "name": "more_text",
+      "label": "More Text",
+      "type": "string",
+      "value": "",
+      "defaultValue": ""
+    }
+  ]
+}
