@@ -1,6 +1,7 @@
 ---
-type: ""
-kategorien: []
+type: "Test Projekt"
+kategorien:
+  - ""
 categories: []
 title: Test
 published: ""
@@ -10,14 +11,15 @@ layout: ""
 img: ""
 img_header: ""
 subtitle: ""
-partners: []
+partners:
+  - uni münster
 website: ""
 contact:
   website: ""
 people:
-  - name: ""
-    role: ""
-years: ""
+  - name: Mario
+    role: Test
+years: "2026"
 financing: []
 cta: ""
 cta_text: ""
